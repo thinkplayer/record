@@ -14,3 +14,4 @@ const valC = someNumber || 0;
 console.log('%c 🍆 valA: ', 'font-size:20px;background-color: #E41A6A;color:#fff;', valA); // 'valA 的默认值'
 console.log('%c 🥝 valB: ', 'font-size:20px;background-color: #4b4b4b;color:#fff;', valB); // 'valB 的默认值'
 console.log('%c 🥧 valC: ', 'font-size:20px;background-color: #4b4b4b;color:#fff;', valC); // 42
+
